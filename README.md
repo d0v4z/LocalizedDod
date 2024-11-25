@@ -1,18 +1,21 @@
-### Hi there 👋, I'm D0V4!
+# D0V4 | SpaceFN Creator  
+**discord.gg/spacefn**
 
-- My Profile Views: <p align="left"> <img src="https://gpvc.arturio.dev/LocalizedDod" alt="D0V4" /> </p>
+---
 
-- 🔭 I’m currently working on 0V4!
-- 🌱 I’m currently learning Coding!
-- 💬 Ask me about anything!
-- 📫 How to reach me: Discord | D0V4#0004
-- ⚡ Fun fact: I'm Lebanese..
+## Languages  
+<span style="color: #ff79c6;">Python</span>  
+<span style="color: #6272a4;">C++</span>  
+<span style="color: #8be9fd;">C#</span>  
 
-### I'm The Founder Of 0V4! 🤗
-- We make tools
-- Bots
-- Giveaways
-- Drops
-- Generators
-- And alot more! 💙
 
+---
+
+## Stats and Shit  
+
+### Most Used Languages  
+```diff
+Python         ████████████████  67.28%  
+C++            ██████            12.96%  
+C#             ████              10.62%  
+HTML           █                 2.9%
